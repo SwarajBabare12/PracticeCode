@@ -42,6 +42,8 @@ public class DynamicMethod {
 		}
 		if (j == size) {
 			System.out.println("Items Added Successfully - Passed");
+			System.out.println("Items Added Successfully");
+			
 		} else {
 			System.out.println("Check Inputs");
 		}
