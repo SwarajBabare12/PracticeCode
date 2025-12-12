@@ -19,4 +19,30 @@ public class GitDEMO {
 			
 		}
 
+		public void demo2() {
+			
+			System.out.println("Hello TestNG");
+			System.out.println("Hello TestNG");
+			System.out.println("Hello TestNG");
+			System.out.println("Hello TestNG");
+			System.out.println("Hello TestNG");
+			System.out.println("Hello TestNG");
+			System.out.println("Hello TestNG");System.out.println("Hello TestNG");
+			
+		}
+
+		public void demo4() {
+			
+			System.out.println("Hello TestNG");
+			System.out.println("Hello TestNG");
+			System.out.println("Hello TestNG");
+			System.out.println("Hello TestNG");
+			System.out.println("Hello TestNG");
+			System.out.println("Hello TestNG");
+			System.out.println("Hello TestNG");System.out.println("Hello TestNG");
+			
+		}
+
+
+
 	}}
