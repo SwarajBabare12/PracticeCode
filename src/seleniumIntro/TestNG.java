@@ -10,6 +10,7 @@ public class TestNG {
 		System.out.println("Hello TestNG");
 		
 	}
+
 	@Test
 	public class TestNG6 {
 		
@@ -18,6 +19,7 @@ public class TestNG {
 			System.out.println("Hello TestNG");
 			
 		}
+	}
 		@Test
 		public class TestNG4 {
 			
@@ -26,6 +28,7 @@ public class TestNG {
 				System.out.println("Hello TestNG");
 				
 			}
+		}
 			@Test
 			public class TestNG3 {
 				
@@ -34,6 +37,7 @@ public class TestNG {
 					System.out.println("Hello TestNG");
 					
 				}
+			}
 	
 	
 	
