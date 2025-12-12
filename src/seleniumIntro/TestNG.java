@@ -39,7 +39,15 @@ public class TestNG {
 				}
 			}
 	
-	
+			@Test
+			public class TestNG8 {
+				
+				public void demo5() {
+					
+					System.out.println("Hello TestNG");
+					
+				}
+			}
 	
 
 }
